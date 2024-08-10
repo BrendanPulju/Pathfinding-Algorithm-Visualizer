@@ -14,7 +14,7 @@ function Footer() {
       <div>
         <span>Brendan Pulju | </span>
         <span>Email: brendanpulju@gmail.com | </span>
-        <span><a href="https://github.com/BrendanPulju/algorithm-visualization-tool">View Source Code on GitHub</a></span>
+        <span><a href="https://github.com/BrendanPulju/Pathfinding-Algorithm-Visualizer">View Source Code on GitHub</a></span>
       </div>
       <div>
         <span>Project completed: May 2024</span>
